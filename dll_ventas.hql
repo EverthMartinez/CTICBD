@@ -1,1 +1,2 @@
 --creacion de table HIVE con la información de ventas
+--crear tabla
